@@ -1,0 +1,2 @@
+include ':app', ':jmk-master'
+project(':jmk-master').projectDir = new File('jmk-master/jmk-master')
